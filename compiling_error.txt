@@ -1,0 +1,5 @@
+In file included from /Users/jordanklaers/Documents/ArduinoWIFI/playground/firstattempt/led.cpp:1:
+/Users/jordanklaers/Documents/ArduinoWIFI/playground/firstattempt/SparkFunESP8266WiFi.h:24:10: fatal error: 'Arduino.h' file not found
+#include <Arduino.h>
+         ^
+1 error generated.
